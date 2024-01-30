@@ -1,32 +1,18 @@
 <!-- Gif -->
 <p align="center">
-  <img src="https://media.giphy.com/avatars/Dashpay/tTyM26CHW2qD/80h.gif" alt="Dash Digital Cash" width="100" height="100" style="border-radius: 50%;">
-</p>
-
-<!-- Giphy Embed -->
-<p align="center">
-  <a href="https://giphy.com/channel/Dashpay" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.giphy.com/avatars/Dashpay/tTyM26CHW2qD/80h.gif" alt="Dash Digital Cash" style="height:36px;width:36px;">
-    <div style="font-size:16px;font-weight:bold">Dash Digital Cash</div>
-    <div style="font-size:14px;font-weight:normal">@Dashpay</div>
+  <a href="https://camo.githubusercontent.com/5da79ec05c00d53ce42807660ea8877ffe25d6206c93d60f3bfadebe9e3d37d5/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32366236373166623561663566376434326336376265316262666666313232612f313432383566643437613764613864382d37622f73353030783735302f383938616562653430626165613864323536613861313565383039303765623865313265313630392e676966" target="_blank">
+    <img src="https://camo.githubusercontent.com/5da79ec05c00d53ce42807660ea8877ffe25d6206c93d60f3bfadebe9e3d37d5/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32366236373166623561663566376434326336376265316262666666313232612f313432383566643437613764613864382d37622f73353030783735302f383938616562653430626165613864323536613861313565383039303765623865313265313630392e676966" style="max-width: 100%; display: inline-block;" alt="Gif" />
   </a>
 </p>
 
+<!-- Twitter Badge -->
 <p align="center">
-  <strong>Money Printer Go Brrr!</strong><br/>
-  Money Printer Go Brrr (the original clip!)
-</p>
-
-
-
-<!-- Twitter Logo ve Bağlantısı -->
-<p align="center">
-  <a href="https://twitter.com/your_twitter_username">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.15.3/icons/twitter.svg" alt="Twitter Logo" width="30" height="30" />
+  <a href="https://twitter.com/kkocality" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/344871562459b446020edfad3758f2eaec8aa08d332bf52413055b03bb056b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter Badge" style="max-width: 100%;">
   </a>
 </p>
 
-<!-- E-posta Adresi -->
-<p align="center">
-  mail : esedov.cemsid@gmail.com
-</p>
+<!-- Email -->
+<div align="center" dir="auto">  
+  mail : kocalitycontact@gmail.com
+</div>
