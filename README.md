@@ -1,16 +1,37 @@
-### Hi there 👋
-
-<!--
-**cemsid/cemsid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h3 dir="auto"></h3>
+<p dir="auto"></p>
+<div id="user-content-header" align="center" dir="auto">
+  <animated-image data-catalyst="" style="width: 600px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5da79ec05c00d53ce42807660ea8877ffe25d6206c93d60f3bfadebe9e3d37d5/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32366236373166623561663566376434326336376265316262666666313232612f313432383566643437613764613864382d37622f73353030783735302f383938616562653430626165613864323536613861313565383039303765623865313265313630392e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/5da79ec05c00d53ce42807660ea8877ffe25d6206c93d60f3bfadebe9e3d37d5/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32366236373166623561663566376434326336376265316262666666313232612f313432383566643437613764613864382d37622f73353030783735302f383938616562653430626165613864323536613861313565383039303765623865313265313630392e676966" data-canonical-src="https://64.media.tumblr.com/26b671fb5af5f7d42c67be1bbfff122a/14285fd47a7da8d8-7b/s500x750/898aebe40baea8d256a8a15e80907eb8e12e1609.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/5da79ec05c00d53ce42807660ea8877ffe25d6206c93d60f3bfadebe9e3d37d5/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32366236373166623561663566376434326336376265316262666666313232612f313432383566643437613764613864382d37622f73353030783735302f383938616562653430626165613864323536613861313565383039303765623865313265313630392e676966" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32366236373166623561663566376434326336376265316262666666313232612f313432383566643437613764613864382d37622f73353030783735302f383938616562653430626165613864323536613861313565383039303765623865313265313630392e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/5da79ec05c00d53ce42807660ea8877ffe25d6206c93d60f3bfadebe9e3d37d5/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32366236373166623561663566376434326336376265316262666666313232612f313432383566643437613764613864382d37622f73353030783735302f383938616562653430626165613864323536613861313565383039303765623865313265313630392e676966" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="600" height="380"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32366236373166623561663566376434326336376265316262666666313232612f313432383566643437613764613864382d37622f73353030783735302f383938616562653430626165613864323536613861313565383039303765623865313265313630392e676966" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32366236373166623561663566376434326336376265316262666666313232612f313432383566643437613764613864382d37622f73353030783735302f383938616562653430626165613864323536613861313565383039303765623865313265313630392e676966">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open 68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32366236373166623561663566376434326336376265316262666666313232612f313432383566643437613764613864382d37622f73353030783735302f383938616562653430626165613864323536613861313565383039303765623865313265313630392e676966 in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/5da79ec05c00d53ce42807660ea8877ffe25d6206c93d60f3bfadebe9e3d37d5/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f32366236373166623561663566376434326336376265316262666666313232612f313432383566643437613764613864382d37622f73353030783735302f383938616562653430626165613864323536613861313565383039303765623865313265313630392e676966" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
+<div id="user-content-badges" dir="auto">
+  <a href="https://twitter.com/kkocality" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/344871562459b446020edfad3758f2eaec8aa08d332bf52413055b03bb056b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+</div>
+</div>  
+<div align="center" dir="auto">  
+mail : kocalitycontact@gmail.com
+</div></article></div>
