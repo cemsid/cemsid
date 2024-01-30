@@ -15,5 +15,8 @@
 <!-- Email -->
 <div align="center" dir="auto">  
   mail : esedov.cemsid@gmail.com
+</div>
+<!-- Email -->
+<div align="center" dir="auto">  
   mail : info@medicineclue.com
 </div>
