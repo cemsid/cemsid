@@ -1,6 +1,6 @@
 <!-- Gif -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qXR53U25GPeocwivdd/giphy.gif" alt="Gif" />
+  <img src="https://64.media.tumblr.com/26b671fb5af5f7d42c67be1bbfff122a/14285fd47a7da8d8-7b/s500x750/898aebe40baea8d256a8a15e80907eb8e12e1609.gif" alt="Gif" style="max-width: 100%; display: inline-block;" />
 </p>
 
 <!-- Twitter Logo ve Bağlantısı -->
