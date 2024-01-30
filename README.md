@@ -14,5 +14,6 @@
 
 <!-- Email -->
 <div align="center" dir="auto">  
-  mail : kocalitycontact@gmail.com
+  mail : esedov.cemsid@gmail.com
+  mail : info@medicineclue.com
 </div>
